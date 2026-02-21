@@ -148,12 +148,12 @@ const QUESTIONS = [
 // ⚠️⚠️⚠️ 雲端設定區 ⚠️⚠️⚠️
 // 請將您 Firebase 後台取得的設定貼在這裡
 const firebaseConfig = {
-  apiKey: "AIzaSyCT_GeU0wjX9wv4CzCfRfK6Q_vjrkxf_GA",
-  authDomain: "know-fddfc.firebaseapp.com",
-  projectId: "know-fddfc",
-  storageBucket: "know-fddfc.firebasestorage.app",
-  messagingSenderId: "352336546183",
-  appId: "1:352336546183:web:7722955bb5a37207066b22"
+  apiKey: "AIzaSyA4OiasIpT3b6PgWygJ3zI9x_Wpb-F9GT8",
+  authDomain: "new-year-sing.firebaseapp.com",
+  projectId: "new-year-sing",
+  storageBucket: "new-year-sing.firebasestorage.app",
+  messagingSenderId: "319810108067",
+  appId: "1:319810108067:web:815f00eab3d5c6bf401d16"
 };
 
 // --- Firebase 初始化邏輯 ---
